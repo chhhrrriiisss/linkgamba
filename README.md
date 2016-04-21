@@ -1,6 +1,6 @@
 # [Link Gamba](http://www.dit.red/gamba/)
 
-![Link Gamba Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")
+![Link Gamba Logo](https://github.com/chrisnic/linkgamba/blob/master/preview.jpg "")
 
 ## About
 
@@ -8,9 +8,11 @@
 
 ## Build Notes
 
-- Requires [gruntjs](http://gruntjs.com/) for compilation to /dist folder and processing while in development. Uses [.less](lesscss.org/) for CSS compilation. Alternatively use your own tool to compile and just work from /src directory. 
+- Uses [gruntjs](http://gruntjs.com/) for compilation to /dist folder and [.less](lesscss.org/) for CSS compilation. 
+- Use **npm install** from root folder to install all dependencies from package.json
 - Run cmd from the root folder and use **grunt watch** while you are editing files to auto-compile .js, then use **grunt dist** to build and compile to the /dist folder when you are ready for production.
 - .gitignore entry included for /node_modules folders.
+- Alternatively use your own task runner to compile and just work from /src directory. 
 - Source files folder contains a handful of photoshop files used for creating the icons and spritesheets.
 
 ## License
