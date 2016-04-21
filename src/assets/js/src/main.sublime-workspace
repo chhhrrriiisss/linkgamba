@@ -1,0 +1,743 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"primary-font",
+				"primary-font-light"
+			],
+			[
+				"_veh",
+				"_vehPosATL"
+			],
+			[
+				"secondaryWe",
+				"secondaryWeaponItems"
+			],
+			[
+				"GW_ACTIONS_",
+				"GW_ACTIONS_SEGMENTS"
+			],
+			[
+				"GW_CHUTE",
+				"GW_CHUTE_ACTIVE"
+			],
+			[
+				"publi",
+				"publicVariableServer"
+			],
+			[
+				"removeAll",
+				"removeAllEventHandlers"
+			],
+			[
+				"lnbsel",
+				"lnbCurSelRow"
+			],
+			[
+				"enableSimul",
+				"enableSimulationGlobal"
+			],
+			[
+				"visiblePosition",
+				"visiblePositionASL"
+			],
+			[
+				"setDamage",
+				"setDammage"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"save",
+				"saveProfileNamespace"
+			],
+			[
+				"_not",
+				"_notificationGroupC"
+			],
+			[
+				"_notificati",
+				"_notificationGroupA"
+			],
+			[
+				"modelToWorld",
+				"modelToWorldVisual"
+			],
+			[
+				"remove",
+				"removeHeadgear"
+			],
+			[
+				"EpeCon",
+				"EpeContactStart"
+			],
+			[
+				"_TO",
+				"_totalOnTimeout"
+			],
+			[
+				"_exist",
+				"_existingQuantities"
+			],
+			[
+				"ctrlSt",
+				"ctrlSetTooltip"
+			],
+			[
+				"modelTo",
+				"modelToWorldVisual"
+			],
+			[
+				"color",
+				"colorBackground"
+			],
+			[
+				"DISABLE",
+				"disableSerialization"
+			],
+			[
+				"disable",
+				"disableSerialization"
+			],
+			[
+				"GW_SETTINGS",
+				"GW_SETTINGS_VEHICLE"
+			],
+			[
+				"terrain",
+				"getTerrainHeightASL"
+			],
+			[
+				"lineInter",
+				"lineIntersectsWith"
+			],
+			[
+				"BIS_fnc_",
+				"BIS_fnc_vectorFromXToY"
+			],
+			[
+				"BIS_f",
+				"BIS_fnc_vectorFromXToY"
+			],
+			[
+				"previewCamer",
+				"previewCameraRange"
+			],
+			[
+				"preproce",
+				"preprocessFile"
+			],
+			[
+				"safeZ",
+				"safezoneH"
+			],
+			[
+				"safe",
+				"safezoneW"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/linkgamba/src/links.txt",
+		"/C/wamp/www/website/src/assets/js/src/main.js",
+		"/C/wamp/www/linkgamba/src/assets/js/src/main.js",
+		"/C/wamp/www/website/src/assets/img/header3.svg",
+		"/C/wamp/www/website/src/assets/css/frag/variables.less",
+		"/C/wamp/www/website/package.json",
+		"/C/wamp/www/website/src/index.md",
+		"/C/wamp/www/website/src/assets/img/header2.svg",
+		"/C/wamp/www/website/src/assets/particles.json",
+		"/C/wamp/www/website/src/assets/css/frag/plugins.less",
+		"/F/Projects/Arma/Titan/Models/T2_Engine/model.cfg",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/TTN_v0_1_2.Stratis/client/compile.sqf",
+		"/C/wamp/www/website/src/assets/css/frag/layout.less",
+		"/C/wamp/www/website/src/assets/css/frag/mixins.less",
+		"/C/wamp/www/website/src/assets/css/frag/mq.less",
+		"/F/Projects/Arma/Titan/Models/T2_Door_Roller/config.cpp",
+		"/F/Projects/Arma/Titan/Models/T2_Door_Roller/model.cfg",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/TTN_v0_1_2.Stratis/client/interactions.sqf",
+		"/F/Projects/Arma/Titan/Models/T2_CargoDoor/model.cfg",
+		"/F/Projects/Arma/Titan/Models/T2_CargoDoor/config.cpp",
+		"/F/Projects/Arma/Titan/Models/T2_HangarDoor/config.cpp",
+		"/C/wamp/www/website/src/assets/css/bootstrap.css",
+		"/C/wamp/www/website/src/assets/js/triangles.min.js",
+		"/C/wamp/www/website/src/assets/js/particles.min.js",
+		"/C/wamp/www/website/src/assets/js/src/plugins.js",
+		"/F/Programs/wamp/www/website/src/assets/css/frag/fonts.less",
+		"/C/Users/Chris/Desktop/style.css",
+		"/C/Users/Chris/Desktop/particles.json",
+		"/C/Users/Chris/Desktop/README.md",
+		"/C/Users/Chris/Desktop/index.html",
+		"/M/Downloads/particlesjs-config (1).json",
+		"/M/Downloads/particlesjs-config.json",
+		"/M/Steam/steamapps/common/Arma 3 Samples/Addons/Test_scope3D_01/config.cpp",
+		"/C/wamp/www/getwrecked/src/index.md",
+		"/C/wamp/www/getwrecked/src/css/frag/layout.less",
+		"/F/Node/getwrecked-api/src/app.js",
+		"/F/Node/getwrecked-api/gruntfile.js",
+		"/C/wamp/www/getwrecked/src/js/src/main.js",
+		"/F/Node/cms/src/package.json",
+		"/F/Node/cms/src/index.html",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/gruntfile.js",
+		"/C/Users/Chris/AppData/Local/Arma 3/arma3_2016-01-28_18-57-25.rpt",
+		"/C/Users/Chris/AppData/Local剜捯獫慴⁲慇敭屳呇⁁屖湥楴汴浥湥⹴湩潦",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Stratis/client/ui/common.hpp",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Stratis/description.ext",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/mission.sqm",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/description.ext",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/CHANGELOG.md",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Releases/v0_8_5/Get Wrecked v0_8_5 [Alpha].Altis/stringtable.xml",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Releases/v0_8_5/Get Wrecked v0_8_5 [Alpha].Altis/README.md",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/test/display reference",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Releases/v0_8_5/Get Wrecked v0_8_5 [Alpha].Altis/init.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/benchmark.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/briefing.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Releases/v0_8_5/Get Wrecked v0_8_5 [Alpha].Altis/benchmark.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Releases/v0_8_5/Get Wrecked v0_8_5 [Alpha].Altis/briefing.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/onPause.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/removezoneboundary.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/package.json",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/init.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_5_RC3.Altis/description.ext",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_5_RC3.Altis/benchmark.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_5_RC3.Altis/briefing.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_5_RC3.Altis/init.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Statis/briefing.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/global/functions/loadVehicle.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/initPlayerLocal.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/config.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/initPlayerJIP.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Statis/client/compile.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Statis/benchmark.sqf",
+		"/F/Node/getwrecked-api/package.json",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_Temp/v0_8_5/Altis/client/ui/common.hpp",
+		"/C/wamp/www/angular/src/index.html",
+		"/C/wamp/www/website/src/assets/img/ring-loading-noanim.svg",
+		"/C/wamp/www/website/src/assets/img/ring-loading.svg",
+		"/C/wamp/www/website/gruntfile.js",
+		"/C/wamp/www/website/src/assets/css/frag/fonts.less",
+		"/M/Downloads/angular.min.js",
+		"/F/Node/cms/gruntfile.js",
+		"/F/Node/cms/package.json",
+		"/C/wamp/www/website/src/assets/css/frag/animations.less",
+		"/C/Users/Chris/Desktop/retina.min.js",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/wamp/www/website/src/assets/css/style.css",
+		"/F/Programs/wamp/www/website/src/assets/css/layout.css",
+		"/F/Programs/wamp/www/website/src/assets/css/frag/mixins.less",
+		"/F/Programs/wamp/www/website/src/assets/css/hoverex-all.css",
+		"/F/Programs/wamp/www/website/src/assets/css/frag/plugins.less",
+		"/F/Programs/wamp/www/website/src/assets/css/ionicons.min.css",
+		"/F/Programs/wamp/www/website/src/assets/css/prettyPhoto.css",
+		"/F/Programs/wamp/www/website/src/assets/js/custom.js",
+		"/F/Programs/wamp/www/website/src/assets/js/src/main.js",
+		"/F/Programs/wamp/www/website/src/assets/js/src/plugins.js",
+		"/F/Programs/wamp/www/getwrecked/src/index.md",
+		"/F/Programs/wamp/www/website/src/assets/js/jquery.min.js",
+		"/F/Programs/wamp/www/website/src/assets/js/jquery.isotope.min.js",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/functions/purchaseList.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/CHANGELOG.md",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/commands/commands.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/zones/deploy.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/effects/fork.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/vehicles/handlers/handle_contact_start.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/vehicles/handlers/handle_contact.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/config.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/params.hpp",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/server/cleanup.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/global/compile.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/server/vehicles/set_handlers.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/server/functions/loadVehicle.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/functions/selectVehicleFromList.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/functions/calculateTotal.sqf",
+		"/F/Projects/Arma/Get Wrecked/wiki/info.php",
+		"/F/Projects/Arma/Get Wrecked/wiki/LocalSettings.php",
+		"/F/Projects/Arma/Get Wrecked/wiki/.htaccess",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/global/objects.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/server/functions/logKill.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/compile.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/cameras/load_camera.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/init.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/init.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/display/vehicle_tag.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/display/display.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/ui/hud/alert.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/effects/mortar_impact.sqf",
+		"/C/Users/Chris/Documents/Arma 3 - Other Profiles/SLI/MPMissions/GW_v0_8_1_DEV.Altis/client/vehicles/attachments/caltrops.sqf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"F:\\Programs\\wamp\\www\\website\\src",
+			"F:\\Programs\\wamp\\www\\website",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,F:\\Steam\\SteamApps\\common\\Arma 3\\Addons\\ui_f_data,C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\QT_v0_1_1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,F:\\Steam\\SteamApps\\common\\Arma 3\\Addons\\ui_f_data,C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\QT_v0_1_0.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,F:\\Steam\\SteamApps\\common\\Arma 3\\Addons\\ui_f_data",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,F:\\Steam\\SteamApps\\common\\Arma 3\\Addons",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			",C:\\Users\\Chris\\Desktop\\Get Wrecked v0_8_0c [Alpha].Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,,C:\\Users\\Chris\\Desktop\\Get Wrecked v0_8_0c [Alpha].Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis,C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC10.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_V.Altis,C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC10.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_TEST.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_RC1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC9.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC8.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC7.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC7.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\KingOfTheHill_by_Sa-Matra_for_DAY0.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC7.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_1_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC3.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC2.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_RC1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_0_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_9_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_8_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC3.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_RC1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_7_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6_DEV.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6_RC4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6_RC3.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_6.Altis,C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6_RC3.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6_RC.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_3d.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_3c.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_2.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_2.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_2.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7_1.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_7.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_9.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_8.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_7.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_4.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_3.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_2.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_6.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_5.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_4.Stratis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_3.Stratis,C:\\Users\\Chris\\AppData\\Local\\Arma 3\\MPMissionsCache\\Altis_Life.Altis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_3.Stratis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5_1.Stratis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_5.Stratis",
+			"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_4_9.Stratis",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"regexp",
+			"',\n",
+			"footer",
+			"paralla",
+			"background",
+			"projects",
+			"header",
+			"border:",
+			"#menu",
+			"header",
+			"getrandomcolor",
+			"export",
+			"getRandomColor",
+			"addControls",
+			"randomize",
+			"addControls",
+			"scroll",
+			"header",
+			"background",
+			"height",
+			"scroll",
+			"p {",
+			"header",
+			"footer",
+			"FOOTER",
+			"filter",
+			"dir",
+			"footer",
+			"ABOUT-HEADER",
+			"HEADER",
+			"LINKEDIN",
+			"Clients",
+			"clients.",
+			"clients",
+			"@sec-font",
+			"@secondary-font",
+			"@font-size",
+			"deploy",
+			"contact",
+			"twitter",
+			"about",
+			"about-header",
+			"$(window).scroll",
+			"scroll",
+			".scroll",
+			"projects",
+			"#menu",
+			"flickit",
+			"$feature",
+			"menuLimit",
+			"container",
+			"woff2",
+			"#menu",
+			"#menu.",
+			"delay",
+			"flickity",
+			"flickty",
+			"DIR =",
+			"2X",
+			"LIST",
+			"isRetina",
+			"retina",
+			"portfolioItems",
+			".item",
+			".packery",
+			"imagesLoaded",
+			"packery",
+			"h2,",
+			"h2 {",
+			"target",
+			"packery",
+			"p {",
+			"p.sub",
+			"distCSS",
+			"distJS",
+			"secondar",
+			"text-transform",
+			"@primary-font",
+			"\">\n",
+			"#h",
+			"bootstrap.css.map",
+			"*.map",
+			"fork.sqf",
+			"\"nolock\"",
+			"requestVehicle",
+			"requestVehicle arma 3",
+			"forkEffect",
+			"forEffect",
+			"handle_contact",
+			"TIMEOUT",
+			"CLEANUP",
+			"cleanup",
+			"GW_GAME_MODE",
+			"$wgResourceLoaderMaxage",
+			" $wgParserCacheExpireTime",
+			"fork.sqf",
+			"alert.sqf",
+			"vehicle_tag.sqf",
+			"timer.sqf",
+			"setVisibleAttached",
+			"setObjectSimulation",
+			"setObjectProperties",
+			"hideObjectGlobal",
+			"setObjectVisible",
+			"colorYellow",
+			"getVectorDirAndUpRelative",
+			"DIrtovector",
+			"dirtOvECTOR",
+			"fork.sqf",
+			"_dir",
+			"vehicle_forks.sqf",
+			"forkEffect",
+			"ATTACHtOrELATIVE",
+			"VEHICLE_FORKS.SQF",
+			"debugLine",
+			"vehicleForks",
+			"'FRK' in",
+			"DEFAULT.SQF",
+			"version",
+			"str_gw_warning",
+			"];\n",
+			"target.sqf",
+			"vehicle_tag.sqf",
+			"markAsKilledBy",
+			"CHECKmARK.SQF",
+			"GW_CURRENTVEHICLE",
+			"loadVehicle",
+			"saveVehicle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ID=",
+			"GW_ACTIONS_SCALE",
+			"filterParam",
+			"",
+			"_var",
+			"distance",
+			"target=\"_blank\"",
+			"",
+			"img/guide-",
+			"",
+			"class=\"image-frame\"",
+			"GW_LASTLOCATION",
+			"GW_VALID_ZONES",
+			"GW_SPAWN_LOCATION",
+			"if ((visiblePositionASL player) distance _pos > GW_EFFECTS_RANGE) exitWith {};",
+			"server\\zones\\vehicle_point.sqf",
+			"GW_LOCKONWEAPONS",
+			"GW_WEAPONSARRAY",
+			"GW_HOLDERARRAY",
+			"GW_TACTICALARRAY",
+			"GW_SPECIALARRAY",
+			"GW_lockOnWeapons",
+			"GW_weaponsArray",
+			"GW_holderArray",
+			"GW_tacticalArray",
+			"GW_specialArray",
+			"stripes_repeat_yellow2.paa",
+			"logo_small4.paa",
+			"GW_LMBDOWN",
+			"GW_LASTLOAD",
+			"NEW_Y",
+			"SETTINGS_Y",
+			"NEW_X",
+			"ALERT_X",
+			"DIALOG_X",
+			"ALERT_X",
+			"GW_PREVIEW_VEHICLE",
+			"GW_BUTTON_HEIGHT",
+			"GW_BUTTON_WIDTH",
+			"GW_BUTTON_HEIGHT",
+			"GW_BUTTON_WIDTH",
+			"GW_WARNINGICON_ARRAY",
+			"GW_BUTTON_BACKGROUND",
+			"_obj",
+			"GW_LINEFFECT_ARRAY",
+			"GW_LINEFFECTARRAY",
+			"GW_SHAREARRAY",
+			"GW_WAITCOMPILE",
+			"GW_WAITLOAD",
+			"GW_WAITSAVE",
+			"GW_WAITALERT",
+			"GW_WAITEDIT",
+			"GW_WAITLIST",
+			"GW_WAITUSE",
+			"GW_WAITFIRE",
+			"GW_LASTMESSAGELOGGED",
+			"GW_MAXDEPLOYABLES",
+			"GW_DEPLOYLIST",
+			"GW_PLAYERNAME",
+			"GW_LOCKEDTARGETS",
+			"GW_VALIDTARGETS",
+			"GW_MINLOCKTIME",
+			"GW_MAXLOCKRANGE",
+			"GW_MINLOCKRANGE",
+			"GW_TARGET_DIRECTION",
+			"GW_ACTIVE_WEAPONS",
+			"GW_ZONE_BOUNDARIES",
+			"GW_ZONELINES",
+			"_camRotate",
+			"_camMove",
+			"camRotate",
+			"camMove",
+			"GW_SPECTATOR_CAM",
+			"mapControl",
+			"",
+			"ICON_ROOT + \"",
+			"[Added]",
+			"[Fixed]",
+			"",
+			"pubVar_systemChat",
+			"\"",
+			"",
+			"_blank",
+			"_new",
+			"<%= pkg.distFolder %>",
+			"<%= pkg.sourceFolder %>",
+			"@global-font-size"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Chris\\Documents\\Arma 3 - Other Profiles\\SLI\\MPMissions\\GW_v0_6_4.Altis\\server\\init.sqf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

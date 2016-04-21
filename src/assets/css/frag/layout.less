@@ -1,0 +1,285 @@
+@import "fonts.less";
+@import "mixins.less";
+
+html, body {
+
+    height:100%;
+
+  
+}
+body {
+
+    overflow-x:hidden;
+
+    min-width:320px;
+
+    margin:0;
+    padding:0;
+
+    font-family:'Courier New', sans-serif;
+    font-size:16px;
+    color:rgba(255,255,255,0.75);
+
+    p.small {
+        font-size:14px;
+        line-height:10px;
+    }
+
+    ul.stats {
+
+        list-style:none;
+
+        li {
+
+
+        }
+    }
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#419c35+0,254f26+100 */
+    background: #419c35; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  #419c35 0%, #254f26 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover,  #419c35 0%,#254f26 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center,  #419c35 0%,#254f26 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#419c35', endColorstr='#254f26',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+#beta { 
+
+    position:relative;
+    
+    background:#ffe60c; 
+
+    line-height:18px;
+    padding:14px;   
+
+    z-index:10;
+
+    
+    color:#000;
+    font-weight:bold !important;
+    text-align:center;
+
+}
+
+#background-texture {
+    background-image:url('../img/felt_dark.png');
+    background-repeat:repeat;
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    margin:0;
+}
+    
+
+.logo {
+    margin: 0px auto;
+    margin-top:30px;
+    margin-bottom:80px;
+
+    background:url('../img/sprites.png') no-repeat;
+    background-position:0px 0px;
+    width:490px;
+    height:170px;
+}
+
+.banner {    
+
+
+
+    &.left, &.right {
+        position:relative;
+        display:block;
+        height:156px;
+        background:url('../img/sprites.png') no-repeat;        
+        width:400px;
+        margin-bottom:20px;
+    }
+
+
+    &.left {
+        float:left;
+        background-position:-506px -30px;
+    }
+
+    &.right {
+        float:right;
+        background-position:-820px -30px;
+    }
+
+}
+
+.image {
+
+    display:block;
+    background:url("../img/sprites.png") no-repeat;
+    background-position:0px 0px;
+
+    &.stepone {
+        width:150px;
+        height:50px;
+        background-position:-25px -190px;
+    }
+
+    &.steptwo {
+        width:155px;
+        height:50px;
+        background-position:-200px -190px;
+    }
+
+    &.funstats {
+        float:right;
+        margin-left:200px;
+        width:165px;
+        height:50px;
+        background-position:-392px -190px;
+    }
+
+    &.madeby {
+        margin:0 auto;
+        width:150px;
+        height:50px;
+        background-position:-600px -190px;
+    }
+
+    &.bracket-left, &.bracket-right {
+        width:60px;
+        height:200px;
+        margin-top:-40px;
+    }
+
+    &.bracket-left {
+        float:right;
+        background-position: -1400px 0px;
+    }
+
+    &.bracket-right {
+        float:left;
+        background-position: -1490px 0px;
+    }
+
+    &.feelsgoodman, &.feelsbadman, &.kappa {
+        width:40px;
+        height:40px;
+        background-size:40px 40px;
+    }
+
+  
+
+}
+
+
+
+canvas {
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-500px;
+    margin-top:-500px;
+    width:1000px;
+    height:1000px;
+
+    .no-select();
+    .cssPerformance();
+}
+
+#mute-button {
+
+    margin-top:40px;
+    width:80px;
+    height:80px;
+    display:block;
+    background:url('../img/sprites.png') no-repeat;
+    background-position:-806px -180px;
+
+    cursor:pointer;
+
+    .transition(transform .1s);
+    .cssPerformance();
+
+
+    &:active {
+        .transform(scale(0.9));
+    }
+
+    &.muted {
+        background-position:-888px -180px;
+    }
+
+}
+
+#spin {
+
+    display:block;
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:180px;
+    height:180px;
+    margin-left:-90px;
+    margin-top:-90px;
+    background:#000;
+    text-align:center;
+    color:#fff;
+
+    cursor:pointer;
+    z-index:9999;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 160px;   
+
+    font-size:40px;
+    font-family:'Impact';
+
+     border:10px solid rgba(255,255,255,1);
+
+     background-color:#ffe60c;
+
+    .box-shadow(inset 0 0 1px 1px rgba(0,0,0, 0.1), 0 0 5px 1px rgba(90,90,90, 0.1));
+    .border-radius(100px);
+    .box-sizing(border-box);
+   	.transition(all .2s);
+    .no-select();
+    z-index:1;
+    
+    
+
+    &:after {
+
+        position:absolute;
+        top:50%;
+        left:50%;
+        display:block;
+
+        width:130px;
+        height:50px;
+
+        margin-left:-65px;
+        margin-top:-25px;
+
+        background: url("../img/sprites.png") no-repeat;
+        background-position:-800px 8px;
+        content:'';
+        z-index:2;
+
+        .transition(transform .1s);
+
+    }    
+
+    &:hover {
+
+        &:after {
+            .transform(scale(0.97));
+        }
+    }   
+
+    &:active {
+    	.transform(scale(1.05));
+    }
+
+}
+
+@import "mq.less";
