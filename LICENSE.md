@@ -1,17 +1,3 @@
-# [Link Gamba](http://www.dit.red/gamba/)
-
-## About
-
-~description of project goes here~
-
-## Build Notes
-
-Requires [http://gruntjs.com/](grunt.js) for compilation to /dist folder and pre-processing while in development. Uses fragmented .less files for CSS compilation. Alternatively use your own tool to compile and just work from /src directory. 
-
-.gitignore entry included for /node_modules folders.
-
-Source files folder contains a handful of photoshop files used for creating the icons and spritesheets.
-
 ## License
 
 [MIT License (MIT)](https://opensource.org/licenses/MIT)
